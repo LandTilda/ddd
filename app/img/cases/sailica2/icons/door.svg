@@ -1,0 +1,32 @@
+<svg width="50" height="70" viewBox="0 0 50 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group 10</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-3301 -10016)">
+<g id="Group 10">
+<g id="Rectangle 3 Copy">
+<use xlink:href="#path0_fill" transform="translate(3301 10016)" fill="#E8F1FF"/>
+<mask id="mask0_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(3301 10016)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(3301 10016)" fill="#239BF5"/>
+</g>
+</g>
+<g id="Oval 5">
+<use xlink:href="#path2_fill" transform="translate(3313.5 10031)" fill="#FFFFFF"/>
+<mask id="mask1_outline_ins">
+<use xlink:href="#path2_fill" fill="white" transform="translate(3313.5 10031)"/>
+</mask>
+<g mask="url(#mask1_outline_ins)">
+<use xlink:href="#path3_stroke_2x" transform="translate(3313.5 10031)" fill="#239BF5"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 2C 0 0.895431 0.895431 0 2 0L 48 0C 49.1046 0 50 0.895431 50 2L 50 68C 50 69.1046 49.1046 70 48 70L 2 70C 0.895431 70 0 69.1046 0 68L 0 2Z"/>
+<path id="path1_stroke_2x" d="M 2 1L 48 1L 48 -1L 2 -1L 2 1ZM 49 2L 49 68L 51 68L 51 2L 49 2ZM 48 69L 2 69L 2 71L 48 71L 48 69ZM 1 68L 1 2L -1 2L -1 68L 1 68ZM 2 -1C 0.343146 -1 -1 0.343146 -1 2L 1 2C 1 1.44772 1.44772 1 2 1L 2 -1ZM 48 1C 48.5523 1 49 1.44772 49 2L 51 2C 51 0.343146 49.6569 -1 48 -1L 48 1ZM 49 68C 49 68.5523 48.5523 69 48 69L 48 71C 49.6569 71 51 69.6569 51 68L 49 68ZM 2 69C 1.44772 69 1 68.5523 1 68L -1 68C -1 69.6569 0.343146 71 2 71L 2 69Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 12.5 25C 19.4036 25 25 19.4036 25 12.5C 25 5.59644 19.4036 0 12.5 0C 5.59644 0 0 5.59644 0 12.5C 0 19.4036 5.59644 25 12.5 25Z"/>
+<path id="path3_stroke_2x" d="M 12.5 26C 19.9558 26 26 19.9558 26 12.5L 24 12.5C 24 18.8513 18.8513 24 12.5 24L 12.5 26ZM 26 12.5C 26 5.04416 19.9558 -1 12.5 -1L 12.5 1C 18.8513 1 24 6.14873 24 12.5L 26 12.5ZM 12.5 -1C 5.04416 -1 -1 5.04416 -1 12.5L 1 12.5C 1 6.14873 6.14873 1 12.5 1L 12.5 -1ZM -1 12.5C -1 19.9558 5.04416 26 12.5 26L 12.5 24C 6.14873 24 1 18.8513 1 12.5L -1 12.5Z"/>
+</defs>
+</svg>

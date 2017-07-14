@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+@@include('../modules/head.html', {
+    "title": "Кассир 24 | SOLAR Digital | web&mobile apps, design, logo",
+    "description": "Кассир 24 продает билеты на лучшие ивенты по всей Украине. Мы сделали полный редизайн проекта. В процессе пришлось искать баланс между удобной навигацией и приятным внешним видом, а также задачей разместить рекламные баннера без потери эстетики интерфейса.",
+    "keywords": "CONSULTING, FRONT-END, HTML/CSS, UI/UX DESIGN, SOLAR Digital, web, mobile, apps, design, logo, контакты, Одесса, Украина, it, сайты, разработка"
+})
+<body class="no_scroll">
+    <div id="all">
+        @@include('../modules/header.html')
+
+        @@include('../modules/menu.html',{
+            "index": "",
+            "portfolio": "active",
+            "contact": ""
+        })
+
+        <main>
+            <div class="kassir24">
+                <div id="full_screen" class="portfolio_page_single rotate_block" data-header="dark">
+                    <div class="page">
+                        <div class="tags">
+                            CONSULTING, FRONT-END, HTML/CSS, UI/UX&nbsp;DESIGN
+                        </div>
+                        <h1 class="open_sans_condensed">Кассир 24</h1>
+                        <div class="description">
+                            Кассир 24 продает билеты на лучшие ивенты по всей Украине. Мы сделали полный редизайн проекта. В процессе пришлось искать баланс между удобной навигацией и приятным внешним видом, а также задачей разместить рекламные баннера без потери эстетики интерфейса.
+                        </div>
+                        <a href="http://kassir24.com.ua/" target="_blank" class="link">www.kassir24.com.ua</a>
+                    </div>
+                    <div id="arrow">
+                        <i></i>
+                    </div>
+                </div>
+                <div id="index_content" class="content portfolio_page_single_content rotate_block">
+                    <div class="block block0" data-header="dark">
+                        <img class="max_w_image" src="/img/cases/kassir24/img0.jpg" alt="">
+                    </div>
+                    <div class="block block1" data-header="dark">
+                        <div class="page">
+                            <img src="/img/cases/kassir24/img1.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="block block2" data-header="dark">
+                        <img class="max_w_image" src="/img/cases/kassir24/img2.jpg" alt="">
+                    </div>
+                    <div class="block block3" data-header="dark">
+                        <img class="max_w_image" src="/img/cases/kassir24/img3.jpg" alt="">
+                    </div>
+                    <div class="block block4" data-header="dark">
+                        <img src="/img/cases/kassir24/img4-1.jpg" alt="">
+                        <img src="/img/cases/kassir24/img4-2.jpg" alt="">
+                    </div>
+                    <div class="block block5" data-header="dark">
+                        <img class="max_w_image" src="/img/cases/kassir24/img5.jpg" alt="">
+                    </div>
+                    @@include('../modules/bot_portfolio.html', {
+                        "link_prev": "infinox.html",
+                        "link_next": "stark-research-ios-app.html"
+                    })
+                </div>
+            </div>
+        </main>
+        @@include('../modules/footer.html')
+
+        <div id="load_side">
+            <div class="icon"></div>
+        </div>
+    </div>
+    <script src="/js/jquery.js"></script>
+    <script src="/js/main.js"></script>
+</body>
+</html>
